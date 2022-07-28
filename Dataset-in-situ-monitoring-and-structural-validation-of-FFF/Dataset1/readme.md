@@ -1,4 +1,4 @@
 # Real-time structural validation for fused filament fabrication components
 
-## Dataset 1
+## Dataset1
 The defect in this project has five variables: defect length, defect position, defect line, defect occurring layer, and total layers with the defect. Therefore, there is a specific naming rule for both the defect images and tensile test results. From the file name, you can get some information about the defect in this sample. For example, the tensile force file with 'LINE3L01L234IN16center' means this sample on layers 2, 3, and 4; each layer has a 1 mm defect at line 1 and position 16. For the image naming rule, please refer 'labels for defect image.xlsx'. For more information about tensile force, please refer 'tensile test all.xlsx'. Whether the broken sample location occurs at the rooted defect position or not is one of the evaluation metrics. Thus, the broken location on the rooted defect position or not is also recorded in this file.
