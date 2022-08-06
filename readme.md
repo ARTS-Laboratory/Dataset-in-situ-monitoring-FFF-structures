@@ -9,3 +9,11 @@ Dataset related to two parts:
 
 ![Picture1](https://user-images.githubusercontent.com/48246423/181368804-fdca520e-94ce-4fc9-8c4e-db4f4474af1d.png)
 
+@Misc{Fu2022DatasetInSitu,  
+author = {Yanzhou Fu and Austin Downey and Zachary Ziehl},  
+howpublished = {GitHub},  
+title = {Dataset-in-situ-monitoring-FFF-structures},  
+year = {2022},  
+groups = {{ARTS-L}ab},  
+url = {https://github.com/ARTS-Laboratory/Dataset-in-situ-monitoring-FFF-structures},  
+}
