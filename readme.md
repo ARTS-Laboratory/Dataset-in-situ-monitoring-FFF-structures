@@ -9,7 +9,7 @@ Dataset contains two parts:
 
 ![Picture1](https://user-images.githubusercontent.com/48246423/181368804-fdca520e-94ce-4fc9-8c4e-db4f4474af1d.png)
 
-@Misc{Fu2022DatasetSituMonitoring,  
+@Misc{Fu2022DatasetSituValidation,  
 author = {Yanzhou Fu and Austin Downey and Zachary Ziehl},  
 howpublished = {GitHub},  
 title = {Dataset-in-situ-validation-for-polymer-components},  
