@@ -1,6 +1,6 @@
-# Real-time structural validation for fused filament fabrication components
+# Dataset in situ structural validation of additively manufactured polymer components
 
-This repo is the in situ monitroing and decision making for the component manufacturing by fused filament favrication.
+This repo is the in situ monitroing and decision making for the component manufacturing by fused filament fabrication.
 
 ## [Dataset1]
 Dataset contains two parts:
@@ -12,8 +12,8 @@ Dataset contains two parts:
 @Misc{Fu2022DatasetSituMonitoring,  
 author = {Yanzhou Fu and Austin Downey and Zachary Ziehl},  
 howpublished = {GitHub},  
-title = {Dataset-in-situ-monitoring-FFF-structures},  
+title = {Dataset-in-situ-validation-for-polymer-components},  
 year = {2022},  
 groups = {{ARTS-L}ab},  
-url = {https://github.com/ARTS-Laboratory/Dataset-in-situ-monitoring-MEAM-structures},  
+url = {https://github.com/ARTS-Laboratory/Dataset-in-situ-structural-validation-of-additively-manufactured-polymer-components},  
 }
