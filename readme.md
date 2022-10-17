@@ -15,5 +15,5 @@ howpublished = {GitHub},
 title = {Dataset-in-situ-monitoring-FFF-structures},  
 year = {2022},  
 groups = {{ARTS-L}ab},  
-url = {https://github.com/ARTS-Laboratory/Dataset-in-situ-monitoring-FFF-structures},  
+url = {https://github.com/ARTS-Laboratory/Dataset-in-situ-monitoring-MEAM-structures},  
 }
