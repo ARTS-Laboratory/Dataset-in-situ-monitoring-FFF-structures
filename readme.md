@@ -1,6 +1,6 @@
 # Dataset in situ structural validation of additively manufactured polymer components
 
-This repo is the in situ monitroing and decision making for the component manufacturing by fused filament fabrication.
+This repo is the in situ monitroing and decision-making for the component manufacturing by fused filament fabrication.
 
 ## [Dataset1]
 Dataset contains two parts:
